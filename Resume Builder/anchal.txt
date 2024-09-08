@@ -1,15 +1,14 @@
      ********** Personal Information **********     
-Fullname: Bhanu Prakash
-SurnamePoluparthi
-Address: Flat NO 501, Sri Krishna Residency
-Akkarampalle, Tirupati
+Fullname: 
+Surname:
+Address: 
 
- Pincode: 517507
-Nationality: Indian
-DOB: 07/04/1999
-Phone No.: 9985389370
-Email: p.bhanuprakash12345@gmail.com
-     ********** Skills **********     Category: 
+ Pincode:
+Nationality: 
+DOB: 
+Phone No.: 
+Email: 
+     ********** Skills **********    
 Description
 Category: 
 Description
