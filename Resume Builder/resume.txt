@@ -1,5 +1,5 @@
      ********** Personal Information **********     
-Fullname: 2435465786879pi
+Fullname: 
 Surname: 
 Address: 
 
@@ -10,8 +10,8 @@ DOB:
 Phone No.: 
 Email: 
      ********** Skills **********     
-Category: 123456789
-Description1233456789oi
+Category: 
+Description:
 Category: 
 Description
 Category: 
